@@ -50,7 +50,7 @@
 &kp Q               &kp W           &kp E             &kp R                      &kp T                                           &kp Y        &kp U           &lt 5 I           &kp O           &kp P
 &mt LEFT_CONTROL A  &mt LEFT_ALT S  &mt LEFT_SHIFT D  &mt LEFT_GUI F             &kp G        &trans              &kp MINUS      &kp H        &mt LEFT_GUI J  &mt LEFT_SHIFT K  &mt LEFT_ALT L  &mt LEFT_CONTROL LC(MINUS)
 &kp Z               &kp X           &kp C             &kp V                      &kp B        &lt 4 COLON         &kp SEMICOLON  &kp N        &kp M           &kp COMMA         &kp DOT         &kp SLASH
-&kp LEFT_GUI        &kp LCTRL       &kp LEFT_ALT      &mt LEFT_SHIFT LANGUAGE_2  &lt 4 SPACE  &lt 3 LANGUAGE_1    &kp BACKSPACE  &lt 2 ENTER                                                    &kp ESC
+&kp LEFT_GUI        &kp LCTRL       &kp LEFT_ALT      &mt LEFT_SHIFT LANGUAGE_2  &lt 4 SPACE  &lt 3 LANGUAGE_1    &kp BACKSPACE  &lt 2 ENTER                                                    &lt 6 ESCAPE
             >;
 
             sensor-bindings =
@@ -63,7 +63,7 @@
 &kp Q             &kp W           &kp E             &kp R                      &kp T                                           &kp Y        &kp U               &lt 5 I           &kp O           &kp P
 &kp A             &mt LEFT_ALT S  &mt LEFT_SHIFT D  &mt LEFT_CONTROL F         &kp G        &trans              &kp MINUS      &kp H        &mt LEFT_CONTROL J  &mt LEFT_SHIFT K  &mt LEFT_ALT L  &mt LEFT_WIN MINUS
 &kp Z             &kp X           &kp C             &kp V                      &kp B        &lt 4 COLON         &kp SEMICOLON  &kp N        &kp M               &kp COMMA         &kp DOT         &kp SLASH
-&kp LEFT_CONTROL  &kp LEFT_WIN    &kp LEFT_ALT      &mt LEFT_SHIFT LANGUAGE_2  &lt 4 SPACE  &lt 3 LANGUAGE_1    &kp BACKSPACE  &lt 2 ENTER                                                        &kp ESC
+&kp LEFT_CONTROL  &kp LEFT_WIN    &kp LEFT_ALT      &mt LEFT_SHIFT LANGUAGE_2  &lt 4 SPACE  &lt 3 LANGUAGE_1    &kp BACKSPACE  &lt 2 ENTER                                                        &lt 6 ESCAPE
             >;
 
             sensor-bindings =
